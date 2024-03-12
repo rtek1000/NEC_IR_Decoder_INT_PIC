@@ -1,4 +1,4 @@
-# NEC_IR_Decoder_INT_PIC
+# NEC IR Decoder INT PIC16F887
 
 Souce: https://simple-circuit.com/mplab-xc8-nec-remote-control-decoder/
 
