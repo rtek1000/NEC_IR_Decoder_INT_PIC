@@ -21,6 +21,10 @@ Souce: https://simple-circuit.com/mplab-xc8-nec-remote-control-decoder/
 > #pragma config CONFIG1 = 0x2CD4
 > #pragma config CONFIG2 = 0x0700
 
-Note: Incorrect information: NEC protocol
+Note: Incorrect information: "address (16 bits)"
+
+NEC protocol
 - Both the address and the data are 8-bit, and each has its reverse for verification.
 - Ref.: https://www.researchgate.net/figure/NEC-Protocol-Transmission_fig6_328339660
+
+![img](https://raw.githubusercontent.com/rtek1000/NEC_IR_Decoder_INT_PIC/main/NEC-Protocol-Transmission.png)
